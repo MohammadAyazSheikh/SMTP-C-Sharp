@@ -1,0 +1,9 @@
+C:\Users\moham\Desktop\NP\SMTP\SMTP\bin\Debug\SMTP.exe.config
+C:\Users\moham\Desktop\NP\SMTP\SMTP\bin\Debug\SMTP.exe
+C:\Users\moham\Desktop\NP\SMTP\SMTP\bin\Debug\SMTP.pdb
+C:\Users\moham\Desktop\NP\SMTP\SMTP\obj\Debug\SMTP.csprojResolveAssemblyReference.cache
+C:\Users\moham\Desktop\NP\SMTP\SMTP\obj\Debug\SMTP.Form1.resources
+C:\Users\moham\Desktop\NP\SMTP\SMTP\obj\Debug\SMTP.Properties.Resources.resources
+C:\Users\moham\Desktop\NP\SMTP\SMTP\obj\Debug\SMTP.csproj.GenerateResource.Cache
+C:\Users\moham\Desktop\NP\SMTP\SMTP\obj\Debug\SMTP.exe
+C:\Users\moham\Desktop\NP\SMTP\SMTP\obj\Debug\SMTP.pdb
